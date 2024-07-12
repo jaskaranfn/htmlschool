@@ -1,0 +1,200 @@
+fonts Jersey 25
+Oswald
+Ubuntu
+
+
+ALL Ubuntu
+AI-INFO
+iska color ai-rgb(253, 198, 95)
+info-#ff654e
+
+
+title he
+
+
+
+Home
+pros
+cons 
+Conclusion
+
+padding 10px
+font-family: "Jersey 25", sans-serif;
+  font-weight: 400;
+  font-style: normal
+
+4 navs titles
+
+Can AI Replace Humans? /header text/
+content center size 10re bold-900 flex font-family: "Oswald", sans-serif;
+
+
+
+Is AI The Next Future?   4rem align -center justify -center display flex bold 900
+
+
+
+
+Artificial intelligence (AI) strives to build machines that can mimic human behavior and carry out human-like tasks. Human intelligence seeks to adapt to new situations by combining a variety of cognitive processes. Machines are digital. The human brain is analogous. AI-powered machines rely on input of data and instructions.
+txt-align center 2rem 800bold right left 100px
+
+
+
+
+image 
+
+
+
+AI has made remarkable strides in recent years, pushing the boundaries of what machines can achieve. This has sparked intense debates and discussions about the capabilities of AI in comparison to human intelligence. While AI has shown remarkable prowess in specific tasks, the comparison between AI and human intelligence is a complex and multifaceted topic. In this exposition, we will delve into the strengths and limitations of AI and human intelligence respectively, highlighting the contrasts and complementarities between the two.
+ same 
+div polygon 10 in 1 3-90 100 
+topmrgn100px wdth100% higtmax-content bg #472b40
+
+
+"AI has the potential to augment human capabilities and redefine traditional roles, leading to new opportunities for collaboration, innovation, and personalization in various aspects of life."
+top padding 200 imp btm 30px ttl 100 size2.5 font Oswald txt align center 900bold color white
+
+
+
+
+AI is changing how we live and work, bringing both good and bad. We need to think carefully about how we use it, making sure it helps without causing harm. Working together and being responsible will make sure AI makes life better for everyone.
+FNT weight400 2rem white 100pxleftpad bottom150 imp
+
+
+next page    
+
+
+
+Things AI is Capable of  4rem align -center justify -center display flex bold 900
+     
+
+
+     image
+
+1. **Efficiency**: AI can perform tasks faster and with greater precision than humans.
+2. **Automation**: It can automate repetitive and mundane tasks, freeing up human resources for more complex activities.
+3. **Data Analysis**: AI excels at analyzing large datasets, identifying patterns, and extracting insights.
+4. **24/7 Availability**: AI systems can operate continuously without the need for breaks or sleep.
+5. **Personalization**: It can provide customized experiences in various fields, such as recommendations in e-commerce and personalized learning in education.
+6. **Accuracy**: AI can reduce errors in tasks like medical diagnosis and financial forecasting.
+7. **Innovation**: It can drive innovation by enabling new technologies and applications, such as autonomous vehicles and advanced robotics.
+8. **Cost Savings**: By automating tasks and improving efficiency, AI can reduce operational costs.
+9. **Scalability**: AI solutions can be scaled up easily to handle increasing volumes of work or data.
+10. **Enhanced Decision-Making**: AI can support better decision-making by providing data-driven insights and predictive analytics.
+
+
+
+AI in Job Sector same as other
+
+
+image
+
+
+
+
+AI has increased job opportunities by creating new roles in emerging fields such as AI engineering, data science, and machine learning. These roles involve developing, implementing, and optimizing AI algorithms and systems across various industries. Additionally, AI has led to the creation of positions focused on AI governance, ethics, and compliance, ensuring responsible and ethical use of AI technologies. Moreover, AI has augmented human capabilities in existing roles, leading to increased productivity and efficiency. For example, AI-powered tools and automation have streamlined processes in areas such as customer service, healthcare, and manufacturing, creating demand for skilled workers to manage and oversee these systems. Overall, AI's impact on job creation stems from its ability to drive innovation, enhance productivity, and generate new opportunities for employment across diverse sectors.
+color-#caa8c1
+
+
+
+
+
+
+
+next page
+
+
+
+Things AI is Incapable of same as other
+
+
+"The big deal is that human intelligence has vastly greater scope and depth than any machine intelligence we can engineer." txtaligncenter 
+
+
+
+Reasons why humans cannot be fully replaced by AI.txtaligncenter 2rem 400weight
+cards
+1. Emotional Intelligence and Empathy Oswald 2rem
+While AI can simulate emotions to some extent, it lacks true emotional intelligence and empathy. Human interactions often require understanding nuanced emotions, social cues, and cultural context, which AI struggles to replicate authentically.
+
+
+
+2. Creativity and Innovation
+AI has made significant strides in generating creative content, but true creativity involves imagination, intuition, and ingenuity—qualities that are uniquely human.
+
+
+3. Complex Decision-Making and Judgment
+This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.
+
+
+4.Adaptability and Contextual Understanding
+Humans have a remarkable ability to adapt to new situations, learn from experience, and understand complex contextual nuances. While AI can be trained on specific tasks or domains, it struggles with generalization and may falter when faced with novel or unexpected situations.
+
+5
+Human Connection and Trust
+Trust is fundamental in many human interactions, whether it's in healthcare, financial advice, or personal relationships. While AI can provide recommendations and insights based on data analysis, establishing trust and rapport often relies on human empathy, authenticity, and shared experiences.
+
+6
+Ethical and Moral Reasoning
+While AI can help identify potential ethical issues, the final responsibility for making ethical judgments often rests with humans who can reflect on moral principles, cultural norms, and societal values.
+
+
+
+
+div polygon
+  
+Aspect that Nobody is Talking about same as other
+
+image
+
+
+AI itself doesn't emit CO2; however, the infrastructure supporting AI, such as data centers and computational resources, can contribute to CO2 emissions. The energy consumption associated with training and running AI models, particularly deep learning models that require significant computational power, can have environmental implications. Data centers, where AI models are trained and deployed, consume large amounts of electricity, often sourced from fossil fuels, leading to CO2 emissions. Additionally, manufacturing electronic hardware components for AI systems also generates carbon emissions. Efforts to improve the energy efficiency of AI algorithms and infrastructure, as well as transitioning to renewable energy sources, can help mitigate the environmental impact of AI technologies.
+
+
+next page 
+
+
+Conclusion On AI same as other 
+
+Views on AI by Jack Ma(Founder of Ali Baba)padding btm 0 imp ttl 50 black centertxtalign Oswald 3rem
+
+
+while AI can augment and enhance human capabilities in various domains, there are inherent qualities and skills that are uniquely human and cannot be fully replicated by AI. The future is likely to involve collaboration and synergy between humans and AI, with each leveraging their respective strengths to achieve better outcomes. same as home
+   
+
+
+   image 
+
+
+   home page
+
+rgb
+background 
+rgba(253, 198, 95, 0.6),
+      rgba(131, 0, 207, 0.6)
+
+      and then url  height in vh, width in %, cover bgsize (top left right 0)positions centr
+
+
+
+      fonts
+
+
+      import(@import url('https://fonts.googleapis.com/css2?family=Jersey+25&family=Oswald:wght@200..700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');)
+
+
+      fonts
+      body
+       font-family: "Ubuntu", sans-serif !important;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #fff;
+  
+    font-family: "Jersey 25", sans-serif;
+  font-weight: 400;
+  font-style: normal
+
+   font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
